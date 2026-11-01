@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "ORCA Multi-Robot Collision Avoidance"
+abstract: "Optimal Reciprocal Collision Avoidance for many robots, with the incremental linear programs and a test of ORCA's guarantee."
+authors:
+  - family-names: Trivedi
+    given-names: Mahim
+version: 1.0.0
+date-released: "2026-11-01"
+license: MIT
+repository-code: "https://github.com/robofan45/orca-collision-avoidance"
+keywords:
+  - orca
+  - collision-avoidance
+  - multi-robot
+  - velocity-obstacles
+  - linear-programming
+  - robotics
+  - python

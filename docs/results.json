@@ -1,0 +1,95 @@
+{
+  "demo": {
+    "finished": true,
+    "time": 11.8,
+    "closest_m": 1.0000250874269285,
+    "fallback_solves": 0,
+    "ms_per_step": 1.130341525375547
+  },
+  "keep_right_ablation": {
+    "0": {
+      "finished": false,
+      "time": 40.0,
+      "closest_m": 1.0000054917200627,
+      "fallback_solves": 0,
+      "ms_per_step": 1.2004802500086953
+    },
+    "1": {
+      "finished": true,
+      "time": 14.9,
+      "closest_m": 1.0000033381268523,
+      "fallback_solves": 0,
+      "ms_per_step": 1.0934751678098793
+    },
+    "2": {
+      "finished": true,
+      "time": 13.3,
+      "closest_m": 1.000281126488228,
+      "fallback_solves": 0,
+      "ms_per_step": 1.1171451128062555
+    },
+    "5": {
+      "finished": true,
+      "time": 11.8,
+      "closest_m": 1.0000250874269285,
+      "fallback_solves": 0,
+      "ms_per_step": 1.2003000000253974
+    },
+    "10": {
+      "finished": true,
+      "time": 11.100000000000001,
+      "closest_m": 1.0003964690396596,
+      "fallback_solves": 0,
+      "ms_per_step": 1.1543180180114676
+    },
+    "20": {
+      "finished": true,
+      "time": 11.4,
+      "closest_m": 1.21173966046663,
+      "fallback_solves": 0,
+      "ms_per_step": 1.07328157894683
+    }
+  },
+  "crowd_size": {
+    "4": {
+      "finished": true,
+      "time": 10.8,
+      "closest_m": 1.0029214593286986,
+      "fallback_solves": 0,
+      "ms_per_step": 0.19203611110343546
+    },
+    "8": {
+      "finished": true,
+      "time": 11.3,
+      "closest_m": 1.0010225442873173,
+      "fallback_solves": 0,
+      "ms_per_step": 0.7339831858495275
+    },
+    "10": {
+      "finished": true,
+      "time": 11.8,
+      "closest_m": 1.0000250874269285,
+      "fallback_solves": 0,
+      "ms_per_step": 1.2178169491269697
+    },
+    "16": {
+      "finished": true,
+      "time": 14.200000000000001,
+      "closest_m": 1.0000000003590812,
+      "fallback_solves": 0,
+      "ms_per_step": 2.837470422530035
+    },
+    "24": {
+      "finished": false,
+      "time": 40.0,
+      "closest_m": 1.0000014044083922,
+      "fallback_solves": 0,
+      "ms_per_step": 6.431264000002557
+    }
+  },
+  "reciprocity": {
+    "velocity_pairs_checked": 16535,
+    "closest_approach_m": 1.0052504821303883,
+    "required_m": 1.0
+  }
+}
